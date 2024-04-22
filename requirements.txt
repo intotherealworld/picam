@@ -1,0 +1,5 @@
+fastapi==0.110.1
+Jinja2==3.1.3
+uvicorn[standard]==0.29.0
+gunicorn==21.0.1
+summer-toolkit @ git+https://github.com/intotherealworld/summer-toolkit.git

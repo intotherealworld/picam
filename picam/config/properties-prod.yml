@@ -1,0 +1,14 @@
+summer:
+  logger:
+    loggers:
+      uvicorn:
+        level: INFO
+      "gunicorn.access":
+        level: INFO
+      "gunicorn.error":
+        level: INFO
+      aipzipkin:
+        level: INFO
+    root:
+      level: INFO
+      handlers: [console]
