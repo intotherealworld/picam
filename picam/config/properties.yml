@@ -3,7 +3,7 @@ summer:
   docs:
     title: "picam"
     description: "picam"
-    version: "picam"
+    version: "0.0.1"
   logger:
     version: 1
     formatters:
